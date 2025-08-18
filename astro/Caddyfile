@@ -1,0 +1,9 @@
+# this file is read-only
+:{$PORT:1209} {
+	# Set the root directory for static files
+	root * {$PUBLIC_ROOT:/var/www/html}
+	file_server 
+
+	# Set the index page to redirect all requests to
+	try_files {path} ./index.html
+}
