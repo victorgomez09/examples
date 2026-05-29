@@ -2,7 +2,6 @@
 
 ---
 This repository contains examples of how to deploy applications using Dokploy.
-
 - [x] 11ty
 - [x] Astro
 - [x] Astro SSR
@@ -24,5 +23,5 @@ This repository contains examples of how to deploy applications using Dokploy.
 - [x] Tanstack
 - [x] Vite
 - [x] VueJS
-
 ---
+
