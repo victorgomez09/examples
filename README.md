@@ -1,4 +1,4 @@
-# Dokploy Examples
+# VIPAS Examples
 
 ---
 This repository contains examples of how to deploy applications using Dokploy.
